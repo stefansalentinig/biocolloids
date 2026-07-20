@@ -57,7 +57,7 @@ window.EVENT_ITEMS = [
     link: ""
   },
   {
-    date: "Annual meeting",
+    date: "28-29 January 2027",
     time: "",
     title: "SAOG Annual Meeting",
     description: "The annual meeting of the Swiss Society for Surfaces and Interfaces brings together researchers from academia and industry.",
