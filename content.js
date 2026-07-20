@@ -162,7 +162,7 @@ window.INFRASTRUCTURE_ITEMS = [
     title: "Time-resolved structural analysis",
     badge: "Operando",
     description: "Scattering measurements follow transient mesophases and connect reaction kinetics with structural evolution in real time.",
-    image: "assets/infrastructure/inoperando SAXS.png",
+    image: "assets/infrastructure/Inoperando SAXS.png",
     alt: "Operando SAXS, GISAXS data resolving mesophase symmetry at a reacting oil-water interface"
   },
   { title: "Multi-angle static and dynamic light scattering", badge: "MALS", description: "Polarized and depolarized dynamic light scattering for size and shape analysis, absolute molar mass, aggregation analysis for macromolecules, particles, and colloidal dispersions.",
