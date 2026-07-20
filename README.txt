@@ -4,7 +4,7 @@ BIOCOLLOIDS LAB WEBSITE
 Open index.html in a browser.
 
 QUICK UPDATES
--------------
+-------------https://github.com/stefansalentinig/biocolloids/blob/main/README.txt
 1. Research cards, press stories, events, publication links, and infrastructure:
    edit content.js
 2. Group members and portraits:
@@ -26,8 +26,4 @@ Group photo:        2000 × 900 px, wide landscape
 
 UPCOMING EVENTS
 ---------------
-Update EVENT_ITEMS in content.js. The current symposium date is 8 October 2026 at 13:00.
-
-PUBLISHING
-----------
-This is a static HTML/CSS/JavaScript prototype. It can be opened locally, hosted on a static web server, or used as a visual/content template for the University CMS.
+Update EVENT_ITEMS in content.js.
