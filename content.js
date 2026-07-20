@@ -166,7 +166,7 @@ window.INFRASTRUCTURE_ITEMS = [
     alt: "Operando SAXS, GISAXS data resolving mesophase symmetry at a reacting oil-water interface"
   },
   { title: "Multi-angle static and dynamic light scattering", badge: "MALS", description: "Polarized and depolarized dynamic light scattering for size and shape analysis, absolute molar mass, aggregation analysis for macromolecules, particles, and colloidal dispersions.",
-    image: "assets/infrastructure/multiangle DLS.png",
+    image: "assets/infrastructure/Multiangle DLS.png",
     alt: "DDLS and MALS"
   },
 { title: "Imaging ellipsometry", badge: "ΨΔ", description: "Spatially resolved, label-free analysis of thin films, adsorption processes, interfacial layers, and surface heterogeneity.",
