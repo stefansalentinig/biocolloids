@@ -22,7 +22,7 @@ window.GROUP_MEMBERS = [
     name: "Pascal Bertsch",
     role: "Senior Scientist",
     category: "Senior Scientists",
-    image: "assets/people/Pascal-Bertsch.png",
+    image: "assets/people/Pascal-Bertsch.jpg",
     email: "",
     profile: ""
   },
@@ -54,7 +54,7 @@ window.GROUP_MEMBERS = [
     name: "Elisa Mégroz",
     role: "PhD Student",
     category: "PhD Students",
-    image: "assets/people/Elisa Megroz",
+    image: "assets/people/Elisa Megroz.jpg",
     email: "",
     profile: ""
   },
@@ -70,7 +70,7 @@ window.GROUP_MEMBERS = [
     name: "Kaloyan Dimitrov",
     role: "PhD Student",
     category: "PhD Students",
-    image: "assets/people/Kaloyan Dimitrov",
+    image: "assets/people/Kaloyan Dimitrov.jpg",
     email: "",
     profile: ""
   },
@@ -78,7 +78,7 @@ window.GROUP_MEMBERS = [
     name: "Jingyi Yuan",
     role: "PhD Student",
     category: "PhD Students",
-    image: "assets/people/Jingyi Yuan",
+    image: "assets/people/Jingyi Yuan.jpg",
     email: "",
     profile: ""
   },
